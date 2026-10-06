@@ -1,0 +1,621 @@
+<REAPER_PROJECT 0.1 "7.79/macOS-arm64" 1791257389 0
+  <NOTES 0 2
+  >
+  RIPPLE 0 0
+  GROUPOVERRIDE 0 0 0 0
+  AUTOXFADE 129
+  ENVATTACH 3
+  POOLEDENVATTACH 0
+  TCPUIFLAGS 0
+  MIXERUIFLAGS 11 48 0
+  ENVFADESZ10 40
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0 0
+  MAXPROJLEN 0 0
+  GRID 3199 8 1 8 1 0 0 0
+  TIMEMODE 1 5 -1 30 0 0 -1 0
+  VIDEO_CONFIG 0 0 65792
+  PANMODE 3
+  PANLAWFLAGS 3
+  CURSOR 0
+  ZOOM 111.75091089648268 969 0
+  VZOOMEX 6 0
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
+  LOOP 0
+  LOOPGRAN 0 4
+  RECORD_PATH "Media" ""
+  <RECORD_CFG
+    ZXZhdxgAAQ==
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE ""
+  RENDER_PATTERN ""
+  RENDER_FMT 0 2 0
+  RENDER_1X 0
+  RENDER_RANGE 1 0 0 0 1000
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 0
+  RENDER_DITHER 0
+  RENDER_TRIM 0.000001 0.000001 0 0
+  TIMELOCKMODE 1
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 1
+  DEFPITCHMODE 589824 0
+  TAKELANE 1
+  SAMPLERATE 44100 0 0
+  <RENDER_CFG
+    ZXZhdxgAAQ==
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    BEATLEN 4
+    FREQ 1760 880 1
+    SAMPLES "" "" "" ""
+    SPLIGNORE 0 0
+    SPLDEF 2 660 "" 0 ""
+    SPLDEF 3 440 "" 0 ""
+    PATTERN 0 169
+    PATTERNSTR ABBB
+    MULT 1
+  >
+  GLOBAL_AUTO -1
+  TEMPO 120 4 4 0
+  PLAYRATE 1 0 0.25 4
+  SELECTION 0 0
+  SELECTION2 0 0
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 0 0 0 0 0 0 0 0 0 0 1
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_PANMODE 3
+  MASTER_PANLAWFLAGS 3
+  MASTER_FX 1
+  MASTER_TRACKID {AB42DEA5-81E7-B84E-AFE5-4ED6D44E3DAB}
+  MASTER_SEL 0
+  <MASTERPLAYSPEEDENV
+    EGUID {B8510002-F513-C04B-A4CF-B4C85686BE37}
+    ACT 0 -1
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    EGUID {386DD568-C15F-5B48-90C4-F5EE559B6406}
+    ACT 1 -1
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  RULERHEIGHT 86 86
+  RULERLANE 1 4 "" 0 -1 0
+  RULERLANE 2 8 "" 0 -1 0
+  <PROJBAY
+  >
+  <TRACK {5EA8EB98-E03E-474A-8AFE-86AA53A9A43D}
+    NAME "metal pip 2"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {5EA8EB98-E03E-474A-8AFE-86AA53A9A43D}
+    PERF 0
+    MIDIOUT -1 -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 1.05
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3612EF42-4B04-1344-986A-4D17B3CFCAE8}
+      IID 93
+      NAME "metal pip 2.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.11
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DC5F612C-36AF-9E4B-9CE7-BAA21C2B4BDA}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/metal pip 2.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.05000000004657
+      SNAPOFFS 0
+      LENGTH 1.05
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B662EE4F-65F5-694C-91CD-C9407A5FDA89}
+      IID 93
+      NAME "metal pip 2.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.11
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2C63DF3D-D575-B74E-B595-B04007BDE31C}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/metal pip 2.wav"
+      >
+    >
+    <ITEM
+      POSITION 2.09999999997672
+      SNAPOFFS 0
+      LENGTH 1.05
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1CB6FB84-8E8E-3741-8C7A-6F3173C6E736}
+      IID 93
+      NAME "metal pip 2.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.11
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A9F0AE62-B5EA-8F42-B685-F196F18B8548}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/metal pip 2.wav"
+      >
+    >
+    <ITEM
+      POSITION 3.15000000002328
+      SNAPOFFS 0
+      LENGTH 1.05
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AED80FFF-4B80-2240-AF60-46C1D83F0790}
+      IID 93
+      NAME "metal pip 2.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.11
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {620F132E-9CEF-F848-9292-58422CB1383B}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/metal pip 2.wav"
+      >
+    >
+    <ITEM
+      POSITION 4.19999999995343
+      SNAPOFFS 0
+      LENGTH 1.05
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {36544DF7-4ACB-5149-B415-30E4FE486622}
+      IID 93
+      NAME "metal pip 2.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.11
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {39E94644-18FF-5746-AB58-03750EBE44AB}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/metal pip 2.wav"
+      >
+    >
+    <ITEM
+      POSITION 5.25
+      SNAPOFFS 0
+      LENGTH 1.05
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {68973B9D-1026-2B4C-BE63-E73271235695}
+      IID 93
+      NAME "metal pip 2.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.11
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {472CE493-66A4-8B4F-B700-4DA47139ED58}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/metal pip 2.wav"
+      >
+    >
+    <ITEM
+      POSITION 6.30000000004657
+      SNAPOFFS 0
+      LENGTH 1.05
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {CBCBBF9D-7163-E244-BA4C-B10B6257125A}
+      IID 93
+      NAME "metal pip 2.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.11
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {ED1ACBD5-EB10-BB4A-8EC0-6210F9B1F855}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/metal pip 2.wav"
+      >
+    >
+    <ITEM
+      POSITION 7.34999999997672
+      SNAPOFFS 0
+      LENGTH 1.05
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BB9C9853-C2F0-4440-89E8-EA00F15D62BC}
+      IID 93
+      NAME "metal pip 2.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.11
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9CB7C942-C944-8D42-9002-166F7843DCF7}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/metal pip 2.wav"
+      >
+    >
+    <ITEM
+      POSITION 8.40000000002328
+      SNAPOFFS 0
+      LENGTH 1.05
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0E67BCB2-0684-544D-B318-35809408004C}
+      IID 93
+      NAME "metal pip 2.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.11
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {06337EAF-09BE-9E41-959D-AF6FBF923AC8}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/metal pip 2.wav"
+      >
+    >
+    <ITEM
+      POSITION 9.44999999995343
+      SNAPOFFS 0
+      LENGTH 1.05
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1D3625B7-6570-354C-9506-6A403A4F96A2}
+      IID 93
+      NAME "metal pip 2.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.11
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0EFBAC2C-6D90-FD44-B5D1-F15EE64ABD1D}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/metal pip 2.wav"
+      >
+    >
+  >
+  <TRACK {D431D91A-0696-5E45-8074-B66D01EB41CD}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 1
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {D431D91A-0696-5E45-8074-B66D01EB41CD}
+    PERF 0
+    MIDIOUT -1 -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4909ACA2-76B6-5946-8552-FB49CC306C1E}
+      IID 93
+      NAME "metal pip 2.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.11
+      PLAYRATE 1.05 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CAB4492E-2884-B240-B8EF-8FB8268A3103}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/metal pip 2.wav"
+      >
+    >
+    <ITEM
+      POSITION 1
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {98A68DF8-70F7-9241-9880-F0B1755FA1B6}
+      IID 93
+      NAME "metal pip 2.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.11
+      PLAYRATE 1.05 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {077656B7-4A8A-8E49-9B82-E2EF25F9B381}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/metal pip 2.wav"
+      >
+    >
+    <ITEM
+      POSITION 2
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5EAAD71C-469D-D14A-B0BB-F0FDD9340BA8}
+      IID 93
+      NAME "metal pip 2.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.11
+      PLAYRATE 1.05 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {57004228-2A25-454C-84BA-A20D62B33317}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/metal pip 2.wav"
+      >
+    >
+    <ITEM
+      POSITION 3
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3BC09C8C-DB30-9043-B154-595C282D99AD}
+      IID 93
+      NAME "metal pip 2.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.11
+      PLAYRATE 1.05 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {85382530-E6B3-3D48-A75E-ADE6079FA73F}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/metal pip 2.wav"
+      >
+    >
+    <ITEM
+      POSITION 4
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AA5B18EB-0457-1A4E-9045-0A000851CC32}
+      IID 93
+      NAME "metal pip 2.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.11
+      PLAYRATE 1.05 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BBE4908C-C74A-8342-B264-37CE4A0EC64A}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/metal pip 2.wav"
+      >
+    >
+    <ITEM
+      POSITION 5
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {81195DBC-BA03-6F43-A210-65218C609EE0}
+      IID 93
+      NAME "metal pip 2.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.11
+      PLAYRATE 1.05 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E3E2EB8A-EA59-7744-B60D-14E8FF2CA12F}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/metal pip 2.wav"
+      >
+    >
+    <ITEM
+      POSITION 6
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7394D441-EE91-1045-95AA-62DCDB701D63}
+      IID 93
+      NAME "metal pip 2.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.11
+      PLAYRATE 1.05 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E1013392-AC90-4345-84ED-7AE1ABF5F3AA}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/metal pip 2.wav"
+      >
+    >
+    <ITEM
+      POSITION 7
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {11B3CB4B-EA2A-4B49-9233-8E4158216BE8}
+      IID 93
+      NAME "metal pip 2.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.11
+      PLAYRATE 1.05 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DDC1DAEA-5A01-2448-BEF5-41051A945433}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/metal pip 2.wav"
+      >
+    >
+    <ITEM
+      POSITION 8
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AB7E8513-C95E-D947-B7AF-0D32800A1D4C}
+      IID 93
+      NAME "metal pip 2.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.11
+      PLAYRATE 1.05 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CA1797D1-893F-1F46-9349-0183A49E36BE}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/metal pip 2.wav"
+      >
+    >
+    <ITEM
+      POSITION 9
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D23C4C51-04D5-4142-86C5-82A34F7E00D9}
+      IID 93
+      NAME "metal pip 2.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.11
+      PLAYRATE 1.05 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8E26377E-2909-7D4A-9679-529B7ABE7CF6}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/metal pip 2.wav"
+      >
+    >
+    <ITEM
+      POSITION 10
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {008677E8-07D2-6A4A-8F4B-E75D7F57050B}
+      IID 93
+      NAME "metal pip 2.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.11
+      PLAYRATE 1.05 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CF7D09E8-FD18-BF42-BBE3-CC42E159B590}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/metal pip 2.wav"
+      >
+    >
+  >
+>

@@ -1,0 +1,1237 @@
+<REAPER_PROJECT 0.1 "7.79/macOS-arm64" 1791257305 0
+  <NOTES 0 2
+  >
+  RIPPLE 0 0
+  GROUPOVERRIDE 0 0 0 0
+  AUTOXFADE 129
+  ENVATTACH 3
+  POOLEDENVATTACH 0
+  TCPUIFLAGS 0
+  MIXERUIFLAGS 11 48 0
+  ENVFADESZ10 40
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0 0
+  MAXPROJLEN 0 0
+  GRID 3199 8 1 8 1 0 0 0
+  TIMEMODE 1 5 -1 30 0 0 -1 0
+  VIDEO_CONFIG 0 0 65792
+  PANMODE 3
+  PANLAWFLAGS 3
+  CURSOR 2.5
+  ZOOM 96.83524344584272 0 0
+  VZOOMEX 6 0
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
+  LOOP 0
+  LOOPGRAN 0 4
+  RECORD_PATH "Media" ""
+  <RECORD_CFG
+    ZXZhdxgAAQ==
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE ""
+  RENDER_PATTERN ""
+  RENDER_FMT 0 2 0
+  RENDER_1X 0
+  RENDER_RANGE 1 0 0 0 1000
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 0
+  RENDER_DITHER 0
+  RENDER_TRIM 0.000001 0.000001 0 0
+  TIMELOCKMODE 1
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 1
+  DEFPITCHMODE 589824 0
+  TAKELANE 1
+  SAMPLERATE 44100 0 0
+  <RENDER_CFG
+    ZXZhdxgAAQ==
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    BEATLEN 4
+    FREQ 1760 880 1
+    SAMPLES "" "" "" ""
+    SPLIGNORE 0 0
+    SPLDEF 2 660 "" 0 ""
+    SPLDEF 3 440 "" 0 ""
+    PATTERN 0 169
+    PATTERNSTR ABBB
+    MULT 1
+  >
+  GLOBAL_AUTO -1
+  TEMPO 120 4 4 0
+  PLAYRATE 1 0 0.25 4
+  SELECTION 3 3
+  SELECTION2 3 3
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 0 0 0 0 0 0 0 0 0 0 1
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_PANMODE 3
+  MASTER_PANLAWFLAGS 3
+  MASTER_FX 1
+  MASTER_TRACKID {AB42DEA5-81E7-B84E-AFE5-4ED6D44E3DAB}
+  MASTER_SEL 0
+  <MASTERPLAYSPEEDENV
+    EGUID {B8510002-F513-C04B-A4CF-B4C85686BE37}
+    ACT 0 -1
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    EGUID {386DD568-C15F-5B48-90C4-F5EE559B6406}
+    ACT 1 -1
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  RULERHEIGHT 86 86
+  RULERLANE 1 4 "" 0 -1 0
+  RULERLANE 2 8 "" 0 -1 0
+  <PROJBAY
+  >
+  <TRACK {09E0E2F4-51F2-3049-8EC1-F480ECDA30DA}
+    NAME A_person_saying_a_sh_#3-1791255999084
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {09E0E2F4-51F2-3049-8EC1-F480ECDA30DA}
+    PERF 0
+    MIDIOUT -1 -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 0.47893767405756
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.02385269544816 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {154972FD-FE20-CE4A-AA6D-6B7DF81CBE1C}
+      IID 1
+      NAME A_person_saying_a_sh_#3-1791255999084.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.5
+      PLAYRATE 1.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DA18467F-B2A8-EC4E-93E3-A5D03AAF7D11}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/A_person_saying_a_sh_#3-1791255999084.wav"
+      >
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 0.47893767405756
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.02385269544816 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {93B81526-1F24-E443-95B6-D81B06DA7FE7}
+      IID 1
+      NAME A_person_saying_a_sh_#3-1791255999084.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.5
+      PLAYRATE 1.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {04AD8DEF-83DF-2B42-9239-7EC941FB59F1}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/A_person_saying_a_sh_#3-1791255999084.wav"
+      >
+    >
+    <ITEM
+      POSITION 0.47893767408095
+      SNAPOFFS 0
+      LENGTH 0.47893767405756
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.02385269544816 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B6B598EB-3DC6-D647-B51A-A2D3E20985A3}
+      IID 1
+      NAME A_person_saying_a_sh_#3-1791255999084.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.5
+      PLAYRATE 1.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A2983355-B10A-5F49-A30D-F43E197D01DE}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/A_person_saying_a_sh_#3-1791255999084.wav"
+      >
+    >
+    <ITEM
+      POSITION 0.95787534816191
+      SNAPOFFS 0
+      LENGTH 0.47893767405755
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.02385269544816 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3E6F026D-25BD-6744-8E04-A6C5D7DEDF90}
+      IID 1
+      NAME A_person_saying_a_sh_#3-1791255999084.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.5
+      PLAYRATE 1.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B3AA2ACE-6896-FD49-965C-2A40DB42E678}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/A_person_saying_a_sh_#3-1791255999084.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.43681302212644
+      SNAPOFFS 0
+      LENGTH 0.47893767405756
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.02385269544816 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {DCD20166-B396-1946-85BA-6EEDF5181D44}
+      IID 1
+      NAME A_person_saying_a_sh_#3-1791255999084.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.5
+      PLAYRATE 1.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E25D0009-0465-2D4C-B0BE-D4BC2D1B8B05}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/A_person_saying_a_sh_#3-1791255999084.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.9157506962074
+      SNAPOFFS 0
+      LENGTH 0.47893767405755
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.02385269544816 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {09A5D9F0-E6F7-BB43-ABF7-0D8199D57916}
+      IID 1
+      NAME A_person_saying_a_sh_#3-1791255999084.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.5
+      PLAYRATE 1.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BEA20F36-B74C-534E-A8E4-7378583DA92C}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/A_person_saying_a_sh_#3-1791255999084.wav"
+      >
+    >
+    <ITEM
+      POSITION 2.39468837028835
+      SNAPOFFS 0
+      LENGTH 0.47893767405755
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.02385269544816 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BCE0D0C9-8335-DE4E-9D34-CD607747FE4D}
+      IID 1
+      NAME A_person_saying_a_sh_#3-1791255999084.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.5
+      PLAYRATE 1.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3C69B6EA-444F-F84F-8D27-8ED1F776B672}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/A_person_saying_a_sh_#3-1791255999084.wav"
+      >
+    >
+    <ITEM
+      POSITION 2.8736260443693
+      SNAPOFFS 0
+      LENGTH 0.47893767405755
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.02385269544816 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {CDF1F680-AD38-424A-BA22-37F85FC39308}
+      IID 1
+      NAME A_person_saying_a_sh_#3-1791255999084.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.5
+      PLAYRATE 1.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0F362ECD-33FD-E845-9E80-C068CFE8355C}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/A_person_saying_a_sh_#3-1791255999084.wav"
+      >
+    >
+    <ITEM
+      POSITION 3.35256371845026
+      SNAPOFFS 0
+      LENGTH 0.47893767405755
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.02385269544816 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {01EFB46F-BB92-B242-B60D-F433CF6A82D3}
+      IID 1
+      NAME A_person_saying_a_sh_#3-1791255999084.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.5
+      PLAYRATE 1.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {15CB4D2C-B394-FA4A-9499-4793DC8A4C93}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/A_person_saying_a_sh_#3-1791255999084.wav"
+      >
+    >
+    <ITEM
+      POSITION 3.83150139241479
+      SNAPOFFS 0
+      LENGTH 0.47893767405755
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.02385269544816 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {98393D01-EFFE-2A4A-BBD1-0BFD5AABEF47}
+      IID 1
+      NAME A_person_saying_a_sh_#3-1791255999084.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.5
+      PLAYRATE 1.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DAD5A82F-55DF-8849-9654-38CEC499B391}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/A_person_saying_a_sh_#3-1791255999084.wav"
+      >
+    >
+    <ITEM
+      POSITION 4.31043906649575
+      SNAPOFFS 0
+      LENGTH 0.47893767405755
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.02385269544816 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A59F7220-55AC-AA4A-9778-6CA40F346459}
+      IID 1
+      NAME A_person_saying_a_sh_#3-1791255999084.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.5
+      PLAYRATE 1.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7EBE38FC-E28D-1A4D-B972-16D39273D224}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/A_person_saying_a_sh_#3-1791255999084.wav"
+      >
+    >
+    <ITEM
+      POSITION 4.7893767405767
+      SNAPOFFS 0
+      LENGTH 0.47893767405755
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.02385269544816 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4C16041B-BF8B-AC40-9F2A-53A99B2B0B37}
+      IID 1
+      NAME A_person_saying_a_sh_#3-1791255999084.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.5
+      PLAYRATE 1.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {58524671-6D15-AD40-912C-86028802186F}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/A_person_saying_a_sh_#3-1791255999084.wav"
+      >
+    >
+    <ITEM
+      POSITION 5.26831441465765
+      SNAPOFFS 0
+      LENGTH 0.47893767405755
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.02385269544816 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6442E912-85F8-6F43-B081-A2BC79700112}
+      IID 1
+      NAME A_person_saying_a_sh_#3-1791255999084.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.5
+      PLAYRATE 1.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4E9F1E0A-B210-9646-8EF8-0289472F0F05}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/A_person_saying_a_sh_#3-1791255999084.wav"
+      >
+    >
+    <ITEM
+      POSITION 5.74725208873861
+      SNAPOFFS 0
+      LENGTH 0.47893767405755
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.02385269544816 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {94B32413-5640-6246-9EB9-0C35D27971DC}
+      IID 1
+      NAME A_person_saying_a_sh_#3-1791255999084.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.5
+      PLAYRATE 1.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0B627277-3355-8941-8519-ECD4F604D607}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/A_person_saying_a_sh_#3-1791255999084.wav"
+      >
+    >
+    <ITEM
+      POSITION 6.22618976270314
+      SNAPOFFS 0
+      LENGTH 0.47893767405755
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.02385269544816 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {43427E04-77EF-7942-B304-54709993A60C}
+      IID 1
+      NAME A_person_saying_a_sh_#3-1791255999084.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.5
+      PLAYRATE 1.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {85390768-5BF1-C749-9265-0341E1652C73}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/A_person_saying_a_sh_#3-1791255999084.wav"
+      >
+    >
+    <ITEM
+      POSITION 6.7051274367841
+      SNAPOFFS 0
+      LENGTH 0.47893767405755
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.02385269544816 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1738783A-373E-FF4E-A7D6-48C0ABDD15E0}
+      IID 1
+      NAME A_person_saying_a_sh_#3-1791255999084.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.5
+      PLAYRATE 1.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6787224A-D6E3-174D-9185-472D8638430C}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/A_person_saying_a_sh_#3-1791255999084.wav"
+      >
+    >
+    <ITEM
+      POSITION 7.18406511086505
+      SNAPOFFS 0
+      LENGTH 0.47893767405755
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.02385269544816 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {447C8140-E4FD-5F40-8BB6-7627B7985201}
+      IID 1
+      NAME A_person_saying_a_sh_#3-1791255999084.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.5
+      PLAYRATE 1.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {816C0AD4-D521-7B4B-9B5E-8F192C280A58}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/A_person_saying_a_sh_#3-1791255999084.wav"
+      >
+    >
+    <ITEM
+      POSITION 7.663002784946
+      SNAPOFFS 0
+      LENGTH 0.47893767405755
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.02385269544816 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F1756B2D-F556-474F-AD44-40808147ADEC}
+      IID 1
+      NAME A_person_saying_a_sh_#3-1791255999084.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.5
+      PLAYRATE 1.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {97EEE89F-4CE9-164A-A908-4B6B90D4FA5B}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/A_person_saying_a_sh_#3-1791255999084.wav"
+      >
+    >
+    <ITEM
+      POSITION 8.14194045902696
+      SNAPOFFS 0
+      LENGTH 0.47893767405755
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.02385269544816 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E47986E6-90B6-5947-995D-373646F2AD52}
+      IID 1
+      NAME A_person_saying_a_sh_#3-1791255999084.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.5
+      PLAYRATE 1.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BAC6BAF8-6DA4-9A4A-984C-5878F755B1BE}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/A_person_saying_a_sh_#3-1791255999084.wav"
+      >
+    >
+    <ITEM
+      POSITION 8.62087813299149
+      SNAPOFFS 0
+      LENGTH 0.47893767405755
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.02385269544816 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {66BF803E-34DF-5549-9E33-3A3599646840}
+      IID 1
+      NAME A_person_saying_a_sh_#3-1791255999084.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.5
+      PLAYRATE 1.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C9A80204-C031-5746-A7D0-B0B9BAA85775}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/A_person_saying_a_sh_#3-1791255999084.wav"
+      >
+    >
+    <ITEM
+      POSITION 9.09981580707245
+      SNAPOFFS 0
+      LENGTH 0.47893767405755
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.02385269544816 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {ECBA3AA9-AA1D-DD4F-B1A2-0A7811A50D47}
+      IID 1
+      NAME A_person_saying_a_sh_#3-1791255999084.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.5
+      PLAYRATE 1.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8E3F60DB-0914-364C-A08C-B353C6006184}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/A_person_saying_a_sh_#3-1791255999084.wav"
+      >
+    >
+    <ITEM
+      POSITION 9.5787534811534
+      SNAPOFFS 0
+      LENGTH 0.47893767405755
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1.1 0.02385269544816 0.05769115521095 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BD67A42A-7F5B-5B4E-83D8-D45FD2A09F79}
+      IID 1
+      NAME A_person_saying_a_sh_#3-1791255999084.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.5
+      PLAYRATE 1.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6AE5BDE5-3B48-A645-9C89-0B5D3A704D57}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/A_person_saying_a_sh_#3-1791255999084.wav"
+      >
+    >
+    <ITEM
+      POSITION 10
+      SNAPOFFS 0
+      LENGTH 0.47893767405755
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.05769115521095 1 1 0 0
+      FADEOUT 1 0.02385269544816 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A6116D49-E42E-0942-9073-CA37C8B615D3}
+      IID 1
+      NAME A_person_saying_a_sh_#3-1791255999084.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.5
+      PLAYRATE 1.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C9224777-B753-F44D-A96C-A459472C5941}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/A_person_saying_a_sh_#3-1791255999084.wav"
+      >
+    >
+  >
+  <TRACK {0594521D-17BA-A145-8425-D4A630221F60}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 1
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {0594521D-17BA-A145-8425-D4A630221F60}
+    PERF 0
+    MIDIOUT -1 -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 0.42659774915487
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.02385269544816 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D9D20B16-56B0-8D47-B202-759DD53EFAB2}
+      IID 1
+      NAME A_person_saying_a_sh_#3-1791255999084.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.5
+      PLAYRATE 1.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D4F53306-1FD9-634B-8C8F-55C75C85CD16}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/A_person_saying_a_sh_#3-1791255999084.wav"
+      >
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 0.42659774915487
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.02385269544816 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C05D762D-816C-4143-88FA-7DAF4000AC20}
+      IID 1
+      NAME A_person_saying_a_sh_#3-1791255999084.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.5
+      PLAYRATE 1.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B99CAA32-3D84-A148-B779-F26E6A7E8282}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/A_person_saying_a_sh_#3-1791255999084.wav"
+      >
+    >
+    <ITEM
+      POSITION 0.4265977491159
+      SNAPOFFS 0
+      LENGTH 0.42659774915487
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.02385269544816 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {821E9353-4EB8-8B45-91EB-140EBC613B0A}
+      IID 1
+      NAME A_person_saying_a_sh_#3-1791255999084.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.5
+      PLAYRATE 1.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E6909FEC-B408-5A4E-A92E-9EE4F8FC731D}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/A_person_saying_a_sh_#3-1791255999084.wav"
+      >
+    >
+    <ITEM
+      POSITION 0.85319549834821
+      SNAPOFFS 0
+      LENGTH 0.42659774915487
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.02385269544816 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BBED5F4F-2A98-2043-A37B-BE7C46AFC29D}
+      IID 1
+      NAME A_person_saying_a_sh_#3-1791255999084.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.5
+      PLAYRATE 1.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3C8AFA26-E3C6-DC41-A8DE-4E24A1D10DAA}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/A_person_saying_a_sh_#3-1791255999084.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.27979324746411
+      SNAPOFFS 0
+      LENGTH 0.42659774915487
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.02385269544816 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0981D28B-B7C6-584D-B3A6-D6C002743ECF}
+      IID 1
+      NAME A_person_saying_a_sh_#3-1791255999084.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.5
+      PLAYRATE 1.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7BDF430B-49F4-A34A-930C-1A3E2556185D}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/A_person_saying_a_sh_#3-1791255999084.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.70639099658001
+      SNAPOFFS 0
+      LENGTH 0.42659774915487
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.02385269544816 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BA52CA82-BE97-DB47-B2D8-379228313BFE}
+      IID 1
+      NAME A_person_saying_a_sh_#3-1791255999084.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.5
+      PLAYRATE 1.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {46863CB8-CD15-504A-A8B6-12D25D687E73}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/A_person_saying_a_sh_#3-1791255999084.wav"
+      >
+    >
+    <ITEM
+      POSITION 2.13298874581233
+      SNAPOFFS 0
+      LENGTH 0.42659774915487
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.02385269544816 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {933E6C16-9E32-454F-B60B-20259B8635E9}
+      IID 1
+      NAME A_person_saying_a_sh_#3-1791255999084.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.5
+      PLAYRATE 1.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1CB36E0D-4745-8D4E-B646-E139BF4C87BA}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/A_person_saying_a_sh_#3-1791255999084.wav"
+      >
+    >
+    <ITEM
+      POSITION 2.55958649492823
+      SNAPOFFS 0
+      LENGTH 0.42659774915487
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.02385269544816 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6957479D-8304-B646-AB28-835D7A43815E}
+      IID 1
+      NAME A_person_saying_a_sh_#3-1791255999084.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.5
+      PLAYRATE 1.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4467AB92-AE62-0448-BFF9-2A55E5D6A389}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/A_person_saying_a_sh_#3-1791255999084.wav"
+      >
+    >
+    <ITEM
+      POSITION 2.98618424404413
+      SNAPOFFS 0
+      LENGTH 0.42659774915487
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.02385269544816 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3A4CB55A-DCD8-C54C-9482-3070F5969D76}
+      IID 1
+      NAME A_person_saying_a_sh_#3-1791255999084.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.5
+      PLAYRATE 1.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7807B43F-4750-AB4D-AC1F-056D69162703}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/A_person_saying_a_sh_#3-1791255999084.wav"
+      >
+    >
+    <ITEM
+      POSITION 3.41278199327644
+      SNAPOFFS 0
+      LENGTH 0.42659774915487
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.02385269544816 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0CC138A2-744E-A64B-A17B-AE0F675117CE}
+      IID 1
+      NAME A_person_saying_a_sh_#3-1791255999084.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.5
+      PLAYRATE 1.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4860BB9A-5815-F04A-9CAC-94D937005266}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/A_person_saying_a_sh_#3-1791255999084.wav"
+      >
+    >
+    <ITEM
+      POSITION 3.83937974239234
+      SNAPOFFS 0
+      LENGTH 0.42659774915487
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.02385269544816 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F208F003-60F4-EE4C-8346-2EE255CF3B4F}
+      IID 1
+      NAME A_person_saying_a_sh_#3-1791255999084.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.5
+      PLAYRATE 1.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9AF69B9C-1E53-484D-93AA-EF060B84F9AB}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/A_person_saying_a_sh_#3-1791255999084.wav"
+      >
+    >
+    <ITEM
+      POSITION 4.26597749150824
+      SNAPOFFS 0
+      LENGTH 0.42659774915487
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.02385269544816 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {111B1850-6E70-6C4B-9968-AD050C6B8B1C}
+      IID 1
+      NAME A_person_saying_a_sh_#3-1791255999084.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.5
+      PLAYRATE 1.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2C579F59-86DC-1343-9640-5E6AA60CB86C}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/A_person_saying_a_sh_#3-1791255999084.wav"
+      >
+    >
+    <ITEM
+      POSITION 4.69257524074055
+      SNAPOFFS 0
+      LENGTH 0.42659774915487
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.02385269544816 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6BAFD1EF-9FE9-9241-B17F-CCDE4EF1E074}
+      IID 1
+      NAME A_person_saying_a_sh_#3-1791255999084.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.5
+      PLAYRATE 1.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {26F6C33C-12A4-5846-B21F-81A740E0AFC9}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/A_person_saying_a_sh_#3-1791255999084.wav"
+      >
+    >
+    <ITEM
+      POSITION 5.11917298985645
+      SNAPOFFS 0
+      LENGTH 0.42659774915487
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.02385269544816 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6E58EEE3-C800-FC41-B214-15997BBFE1DA}
+      IID 1
+      NAME A_person_saying_a_sh_#3-1791255999084.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.5
+      PLAYRATE 1.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C02ECE75-E493-A846-841D-DD326C811415}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/A_person_saying_a_sh_#3-1791255999084.wav"
+      >
+    >
+    <ITEM
+      POSITION 5.54577073897235
+      SNAPOFFS 0
+      LENGTH 0.42659774915487
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.02385269544816 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0BE9BC4C-0C19-FF4B-82B8-F6BBD93B85BD}
+      IID 1
+      NAME A_person_saying_a_sh_#3-1791255999084.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.5
+      PLAYRATE 1.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {71E5B4CB-572A-3E43-ADB3-B4A40562942D}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/A_person_saying_a_sh_#3-1791255999084.wav"
+      >
+    >
+    <ITEM
+      POSITION 5.97236848820467
+      SNAPOFFS 0
+      LENGTH 0.42659774915487
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.02385269544816 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C27C6418-C8F7-1C42-A38F-1C7BC4B103C5}
+      IID 1
+      NAME A_person_saying_a_sh_#3-1791255999084.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.5
+      PLAYRATE 1.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F6AC3392-F32E-A54C-87B6-AF3488E6D123}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/A_person_saying_a_sh_#3-1791255999084.wav"
+      >
+    >
+    <ITEM
+      POSITION 6.39896623732056
+      SNAPOFFS 0
+      LENGTH 0.42659774915487
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.02385269544816 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D3C57303-6684-6C4C-B664-AFAD9B6BF790}
+      IID 1
+      NAME A_person_saying_a_sh_#3-1791255999084.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.5
+      PLAYRATE 1.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2599F00E-F5ED-AB40-BA5B-F63057B15D9F}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/A_person_saying_a_sh_#3-1791255999084.wav"
+      >
+    >
+    <ITEM
+      POSITION 6.82556398643646
+      SNAPOFFS 0
+      LENGTH 0.42659774915487
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.02385269544816 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {29DFF6AC-045B-EF40-8148-7FBD674101AA}
+      IID 1
+      NAME A_person_saying_a_sh_#3-1791255999084.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.5
+      PLAYRATE 1.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {189725B2-9508-E447-95FC-D82601CEBA3F}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/A_person_saying_a_sh_#3-1791255999084.wav"
+      >
+    >
+    <ITEM
+      POSITION 7.25216173566878
+      SNAPOFFS 0
+      LENGTH 0.42659774915487
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.02385269544816 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {725F7024-9168-5243-A606-3A2A3C08E023}
+      IID 1
+      NAME A_person_saying_a_sh_#3-1791255999084.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.5
+      PLAYRATE 1.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {54B51B9D-0414-F441-8301-89C4652F704B}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/A_person_saying_a_sh_#3-1791255999084.wav"
+      >
+    >
+    <ITEM
+      POSITION 7.67875948478468
+      SNAPOFFS 0
+      LENGTH 0.42659774915487
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.02385269544816 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1C9E1378-EFB9-E444-8E07-240943640C22}
+      IID 1
+      NAME A_person_saying_a_sh_#3-1791255999084.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.5
+      PLAYRATE 1.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A839CF1C-FC59-934C-8851-98FC4E88F4F9}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/A_person_saying_a_sh_#3-1791255999084.wav"
+      >
+    >
+    <ITEM
+      POSITION 8.10535723390058
+      SNAPOFFS 0
+      LENGTH 0.42659774915487
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.02385269544816 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C1C430D8-489A-A84F-862F-D3080F535F47}
+      IID 1
+      NAME A_person_saying_a_sh_#3-1791255999084.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.5
+      PLAYRATE 1.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {02D719F8-83E7-4741-B162-CD3D2D952E1F}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/A_person_saying_a_sh_#3-1791255999084.wav"
+      >
+    >
+    <ITEM
+      POSITION 8.53195498313289
+      SNAPOFFS 0
+      LENGTH 0.42659774915487
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.02385269544816 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6EB06ECC-AC0B-844E-82BC-87927C73A74E}
+      IID 1
+      NAME A_person_saying_a_sh_#3-1791255999084.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.5
+      PLAYRATE 1.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C26C425B-37D2-7F49-9B48-7DC1579E62D2}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/A_person_saying_a_sh_#3-1791255999084.wav"
+      >
+    >
+    <ITEM
+      POSITION 8.95855273224879
+      SNAPOFFS 0
+      LENGTH 0.42659774915487
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.02385269544816 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {09A75F65-235C-1D46-A24F-622AFD606BB6}
+      IID 1
+      NAME A_person_saying_a_sh_#3-1791255999084.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.5
+      PLAYRATE 1.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {042CED5E-0F94-C141-A51E-C17ECA8AC727}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/A_person_saying_a_sh_#3-1791255999084.wav"
+      >
+    >
+    <ITEM
+      POSITION 9.38515048136469
+      SNAPOFFS 0
+      LENGTH 0.42659774915487
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.02385269544816 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3C38B9E5-8D4D-EC4F-A94B-192C46426F11}
+      IID 1
+      NAME A_person_saying_a_sh_#3-1791255999084.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.5
+      PLAYRATE 1.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {55DFEB05-34C7-9148-A4F8-E0CC5803BF29}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/A_person_saying_a_sh_#3-1791255999084.wav"
+      >
+    >
+    <ITEM
+      POSITION 9.811748230597
+      SNAPOFFS 0
+      LENGTH 0.42659774915487
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1.1 0.02385269544816 0.00446867702235 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {30E7AC80-BD82-584B-A668-35C9951E9B7A}
+      IID 1
+      NAME A_person_saying_a_sh_#3-1791255999084.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.5
+      PLAYRATE 1.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5A62ED83-A319-A54F-A42D-C7D3C5966190}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/A_person_saying_a_sh_#3-1791255999084.wav"
+      >
+    >
+    <ITEM
+      POSITION 10.23387730272952
+      SNAPOFFS 0
+      LENGTH 0.42659774915487
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.00446867702235 1 1 0 0
+      FADEOUT 1 0.02385269544816 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FC18BDF2-5BFF-BE47-AD4D-C5EC2AAC98D9}
+      IID 1
+      NAME A_person_saying_a_sh_#3-1791255999084.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.5
+      PLAYRATE 1.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8180BE33-76B9-2C4E-97D6-13C27B224684}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/A_person_saying_a_sh_#3-1791255999084.wav"
+      >
+    >
+  >
+>

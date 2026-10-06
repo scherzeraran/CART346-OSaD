@@ -1,0 +1,1149 @@
+<REAPER_PROJECT 0.1 "7.79/macOS-arm64" 1791258335 0
+  <NOTES 0 2
+  >
+  RIPPLE 0 0
+  GROUPOVERRIDE 0 0 0 0
+  AUTOXFADE 129
+  ENVATTACH 3
+  POOLEDENVATTACH 0
+  TCPUIFLAGS 0
+  MIXERUIFLAGS 11 48 0
+  ENVFADESZ10 40
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0 0
+  MAXPROJLEN 0 0
+  GRID 3199 8 1 8 1 0 0 0
+  TIMEMODE 1 5 -1 30 0 0 -1 0
+  VIDEO_CONFIG 0 0 65792
+  PANMODE 3
+  PANLAWFLAGS 3
+  CURSOR 2.39494512448136
+  ZOOM 34.65632642333475 0 0
+  VZOOMEX 6 0
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
+  LOOP 0
+  LOOPGRAN 0 4
+  RECORD_PATH "Media" ""
+  <RECORD_CFG
+    ZXZhdxgAAQ==
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE ""
+  RENDER_PATTERN ""
+  RENDER_FMT 0 2 0
+  RENDER_1X 0
+  RENDER_RANGE 1 0 0 0 1000
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 0
+  RENDER_DITHER 0
+  RENDER_TRIM 0.000001 0.000001 0 0
+  TIMELOCKMODE 1
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 1
+  DEFPITCHMODE 589824 0
+  TAKELANE 1
+  SAMPLERATE 44100 0 0
+  <RENDER_CFG
+    ZXZhdxgAAQ==
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    BEATLEN 4
+    FREQ 1760 880 1
+    SAMPLES "" "" "" ""
+    SPLIGNORE 0 0
+    SPLDEF 2 660 "" 0 ""
+    SPLDEF 3 440 "" 0 ""
+    PATTERN 0 169
+    PATTERNSTR ABBB
+    MULT 1
+  >
+  GLOBAL_AUTO -1
+  TEMPO 120 4 4 0
+  PLAYRATE 1 0 0.25 4
+  SELECTION 2.5 2.5
+  SELECTION2 2.5 2.5
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 0 0 0 0 0 0 0 0 0 0 1
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_PANMODE 3
+  MASTER_PANLAWFLAGS 3
+  MASTER_FX 1
+  MASTER_TRACKID {AB42DEA5-81E7-B84E-AFE5-4ED6D44E3DAB}
+  MASTER_SEL 0
+  <MASTERPLAYSPEEDENV
+    EGUID {B8510002-F513-C04B-A4CF-B4C85686BE37}
+    ACT 0 -1
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    EGUID {386DD568-C15F-5B48-90C4-F5EE559B6406}
+    ACT 1 -1
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  RULERHEIGHT 86 86
+  RULERLANE 1 4 "" 0 -1 0
+  RULERLANE 2 8 "" 0 -1 0
+  <PROJBAY
+  >
+  <TRACK {1432FB04-4CA0-3F47-BE38-0E941D74197A}
+    NAME A_close-mic_recordin_#2-1791258106883
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {1432FB04-4CA0-3F47-BE38-0E941D74197A}
+    PERF 0
+    MIDIOUT -1 -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 0.87
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AA09B47E-91C8-6742-939D-B95911CC280A}
+      IID 154
+      NAME A_close-mic_recordin_#2-1791258106883.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F5EE1AB1-9D93-224F-AAF1-FFFEAC01CC11}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/A_close-mic_recordin_#2-1791258106883.wav"
+      >
+    >
+    <ITEM
+      POSITION 0.87272719375324
+      SNAPOFFS 0
+      LENGTH 0.87
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1CD46118-0D41-E143-B730-3DC1732E9D89}
+      IID 154
+      NAME A_close-mic_recordin_#2-1791258106883.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AE7319AC-6578-F84A-A2C9-881682941218}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/A_close-mic_recordin_#2-1791258106883.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.74272719374858
+      SNAPOFFS 0
+      LENGTH 0.87
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {427ACC8F-DE40-1A40-A0F3-24872F032B13}
+      IID 154
+      NAME A_close-mic_recordin_#2-1791258106883.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9BB4291C-06D4-3B40-9B8B-DBDFD2E44D77}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/A_close-mic_recordin_#2-1791258106883.wav"
+      >
+    >
+    <ITEM
+      POSITION 2.61272719374392
+      SNAPOFFS 0
+      LENGTH 0.87
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {79109DDA-59AC-C445-8C94-82C7ED607879}
+      IID 154
+      NAME A_close-mic_recordin_#2-1791258106883.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {91E0A85A-4528-C347-8741-A0142245F189}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/A_close-mic_recordin_#2-1791258106883.wav"
+      >
+    >
+    <ITEM
+      POSITION 3.48272719373927
+      SNAPOFFS 0
+      LENGTH 0.87
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D2893A0B-7CF3-0246-A72C-5C5AFF724974}
+      IID 154
+      NAME A_close-mic_recordin_#2-1791258106883.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BD1A9B38-AD59-414C-9389-58A359E463D8}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/A_close-mic_recordin_#2-1791258106883.wav"
+      >
+    >
+    <ITEM
+      POSITION 4.35272719373461
+      SNAPOFFS 0
+      LENGTH 0.87
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FC564353-49C7-984E-925C-EEE6F9AFC734}
+      IID 154
+      NAME A_close-mic_recordin_#2-1791258106883.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7A6A8F12-CC2C-3C46-B4CC-ED2607313AE5}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/A_close-mic_recordin_#2-1791258106883.wav"
+      >
+    >
+    <ITEM
+      POSITION 5.22272719372995
+      SNAPOFFS 0
+      LENGTH 0.87
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1FEFEB61-00AD-1143-863B-8592237E790D}
+      IID 154
+      NAME A_close-mic_recordin_#2-1791258106883.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {32978BF6-FB70-2147-B6B4-E7F2F73D8BEA}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/A_close-mic_recordin_#2-1791258106883.wav"
+      >
+    >
+    <ITEM
+      POSITION 6.0927271937253
+      SNAPOFFS 0
+      LENGTH 0.87
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {30B068DE-CAF9-894E-9D83-0BE77643A385}
+      IID 154
+      NAME A_close-mic_recordin_#2-1791258106883.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {57927FF9-1D3F-B44E-B6B1-F0DB6C71DCDD}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/A_close-mic_recordin_#2-1791258106883.wav"
+      >
+    >
+    <ITEM
+      POSITION 6.96272719372064
+      SNAPOFFS 0
+      LENGTH 0.87
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {887CA89D-AB2A-A842-8B0C-33665C4CFA72}
+      IID 154
+      NAME A_close-mic_recordin_#2-1791258106883.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C3A616F0-F49B-6F42-BEDA-85C456676B4A}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/A_close-mic_recordin_#2-1791258106883.wav"
+      >
+    >
+    <ITEM
+      POSITION 7.83272719371598
+      SNAPOFFS 0
+      LENGTH 0.87
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {00467C3F-D781-904A-BAC2-560F3857D683}
+      IID 154
+      NAME A_close-mic_recordin_#2-1791258106883.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {48E16B3E-B3A7-C84B-9C15-918DB58AD112}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/A_close-mic_recordin_#2-1791258106883.wav"
+      >
+    >
+    <ITEM
+      POSITION 8.70272719371133
+      SNAPOFFS 0
+      LENGTH 0.87
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {86E74FDB-E79E-4444-A07F-856EEFFFBE64}
+      IID 154
+      NAME A_close-mic_recordin_#2-1791258106883.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {75D7DB75-466B-6748-85F0-D61D32988208}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/A_close-mic_recordin_#2-1791258106883.wav"
+      >
+    >
+    <ITEM
+      POSITION 9.57272719370667
+      SNAPOFFS 0
+      LENGTH 0.87
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B8033433-389D-B748-BB5E-FDBD79D8C401}
+      IID 154
+      NAME A_close-mic_recordin_#2-1791258106883.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {629076AA-0C2C-794C-9EFF-35DFB3A6F5B3}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/A_close-mic_recordin_#2-1791258106883.wav"
+      >
+    >
+    <ITEM
+      POSITION 10.44272719370201
+      SNAPOFFS 0
+      LENGTH 0.87
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {27688441-F1B6-1446-8B80-40B55E68C788}
+      IID 154
+      NAME A_close-mic_recordin_#2-1791258106883.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A2252DAC-6621-8B42-A759-1536D1DFD3AF}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/A_close-mic_recordin_#2-1791258106883.wav"
+      >
+    >
+    <ITEM
+      POSITION 11.31272719369736
+      SNAPOFFS 0
+      LENGTH 0.87
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {30E17FA1-A4F8-ED4B-A000-01282E9CA809}
+      IID 154
+      NAME A_close-mic_recordin_#2-1791258106883.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {27D9E69D-E1DC-F74F-B664-C8B1E8E7837E}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/A_close-mic_recordin_#2-1791258106883.wav"
+      >
+    >
+    <ITEM
+      POSITION 12.1827271936927
+      SNAPOFFS 0
+      LENGTH 0.87
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A525B74C-B6F4-474F-A93A-4F128CE9C729}
+      IID 154
+      NAME A_close-mic_recordin_#2-1791258106883.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {45B01777-FA62-FD46-9551-4E1A0B3FDBA9}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/A_close-mic_recordin_#2-1791258106883.wav"
+      >
+    >
+    <ITEM
+      POSITION 13.05272719368804
+      SNAPOFFS 0
+      LENGTH 0.87
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E7EBAE4A-752A-5E47-AC75-ED79930644FB}
+      IID 154
+      NAME A_close-mic_recordin_#2-1791258106883.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1EEA64D2-4A72-6E4A-BFEF-6F59B580A51F}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/A_close-mic_recordin_#2-1791258106883.wav"
+      >
+    >
+    <ITEM
+      POSITION 13.92272719368339
+      SNAPOFFS 0
+      LENGTH 0.87
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6E4FFE69-C094-CE41-B685-0633217A74D1}
+      IID 154
+      NAME A_close-mic_recordin_#2-1791258106883.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {11173BB6-2975-144C-A174-A3EBF9D63079}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/A_close-mic_recordin_#2-1791258106883.wav"
+      >
+    >
+    <ITEM
+      POSITION 14.79272719367873
+      SNAPOFFS 0
+      LENGTH 0.87
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2D371BAE-449C-AB41-9FD7-2697AE680F3F}
+      IID 154
+      NAME A_close-mic_recordin_#2-1791258106883.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F109F82F-6251-DC4C-92EC-10D92B10603A}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/A_close-mic_recordin_#2-1791258106883.wav"
+      >
+    >
+    <ITEM
+      POSITION 15.66272719367407
+      SNAPOFFS 0
+      LENGTH 0.87
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {08A9E83C-7B02-5947-B461-7E43760782A9}
+      IID 154
+      NAME A_close-mic_recordin_#2-1791258106883.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0CFDA7EC-2E5E-FD4C-BFC1-C22F8E20E78C}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/A_close-mic_recordin_#2-1791258106883.wav"
+      >
+    >
+    <ITEM
+      POSITION 16.53272719366942
+      SNAPOFFS 0
+      LENGTH 0.87
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FBA53049-C31A-E24A-9338-4D9CE76FEDE2}
+      IID 154
+      NAME A_close-mic_recordin_#2-1791258106883.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2B80C000-2D09-EF4A-B1DF-05D43204D5F9}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/A_close-mic_recordin_#2-1791258106883.wav"
+      >
+    >
+    <ITEM
+      POSITION 17.40272719366476
+      SNAPOFFS 0
+      LENGTH 0.87
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {696AC5D2-85B4-E54B-9A6B-0BCA9C132F2E}
+      IID 154
+      NAME A_close-mic_recordin_#2-1791258106883.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {ABB0EE65-4A8F-2B4D-A9E2-BCA581704E9D}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/A_close-mic_recordin_#2-1791258106883.wav"
+      >
+    >
+  >
+  <TRACK {CD788690-2962-3846-8A71-F9D6190618A7}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 1
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {CD788690-2962-3846-8A71-F9D6190618A7}
+    PERF 0
+    MIDIOUT -1 -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 0.77586958923449
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B8C3DE6C-04F7-C043-90B5-C2B9A9B64CB0}
+      IID 154
+      NAME A_close-mic_recordin_#2-1791258106883.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B8B00126-5ED7-E74D-AA07-D8A1E305007B}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/A_close-mic_recordin_#2-1791258106883.wav"
+      >
+    >
+    <ITEM
+      POSITION 0.77586958923449
+      SNAPOFFS 0
+      LENGTH 0.77586958923449
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F934C8C3-88E6-AE4D-B815-3AC3574B449A}
+      IID 154
+      NAME A_close-mic_recordin_#2-1791258106883.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CDE56F44-4C90-104D-AFA5-D4F9FC997218}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/A_close-mic_recordin_#2-1791258106883.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.55173917846898
+      SNAPOFFS 0
+      LENGTH 0.77586958923449
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {532BE477-E733-7B40-8E8F-6E46D6E23E2C}
+      IID 154
+      NAME A_close-mic_recordin_#2-1791258106883.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2C1C6232-1C4E-4A4B-B767-AF74E0CA7C2E}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/A_close-mic_recordin_#2-1791258106883.wav"
+      >
+    >
+    <ITEM
+      POSITION 2.33087904390413
+      SNAPOFFS 0
+      LENGTH 0.77586958923449
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {41BB26F0-123F-0743-B4BC-329776D77009}
+      IID 154
+      NAME A_close-mic_recordin_#2-1791258106883.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {33A6980E-5A72-D745-BC1B-900507EF547E}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/A_close-mic_recordin_#2-1791258106883.wav"
+      >
+    >
+    <ITEM
+      POSITION 3.1067486332031
+      SNAPOFFS 0
+      LENGTH 0.77586958923449
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A32084B4-4727-0C47-91CF-69BE14B0E6D4}
+      IID 154
+      NAME A_close-mic_recordin_#2-1791258106883.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DD967964-4EB3-0242-8C05-9C4501185B8E}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/A_close-mic_recordin_#2-1791258106883.wav"
+      >
+    >
+    <ITEM
+      POSITION 3.88261822238564
+      SNAPOFFS 0
+      LENGTH 0.77586958923449
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7C309FF5-767A-E54F-925E-09E14F2CC55C}
+      IID 154
+      NAME A_close-mic_recordin_#2-1791258106883.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {90BF413B-6E27-0B4B-AC66-C78B721D9516}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/A_close-mic_recordin_#2-1791258106883.wav"
+      >
+    >
+    <ITEM
+      POSITION 4.65848781168461
+      SNAPOFFS 0
+      LENGTH 0.77586958923449
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A52A6F77-14E3-8A40-AA31-A58975280C0E}
+      IID 154
+      NAME A_close-mic_recordin_#2-1791258106883.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5453EDF7-5279-0C45-A139-6B0C8E313EFC}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/A_close-mic_recordin_#2-1791258106883.wav"
+      >
+    >
+    <ITEM
+      POSITION 5.43435740086716
+      SNAPOFFS 0
+      LENGTH 0.77586958923449
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5D144C06-EC74-2F4D-B07C-ECACC830E6A6}
+      IID 154
+      NAME A_close-mic_recordin_#2-1791258106883.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B47F3104-5AE8-EA40-8676-0BE38B4E59B5}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/A_close-mic_recordin_#2-1791258106883.wav"
+      >
+    >
+    <ITEM
+      POSITION 6.21022699016612
+      SNAPOFFS 0
+      LENGTH 0.77586958923449
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0DAFDF3F-B249-4A46-AFF7-EA467A447AD2}
+      IID 154
+      NAME A_close-mic_recordin_#2-1791258106883.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D5673422-C65E-8246-86F1-8C1C275DA244}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/A_close-mic_recordin_#2-1791258106883.wav"
+      >
+    >
+    <ITEM
+      POSITION 6.98609657934867
+      SNAPOFFS 0
+      LENGTH 0.77586958923449
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5196EC3D-9999-2B45-96F1-CBCB71BE439F}
+      IID 154
+      NAME A_close-mic_recordin_#2-1791258106883.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0D93F430-2F77-E449-A513-413A2FF03442}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/A_close-mic_recordin_#2-1791258106883.wav"
+      >
+    >
+    <ITEM
+      POSITION 7.76196616864763
+      SNAPOFFS 0
+      LENGTH 0.77586958923449
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {02A26291-CB9F-6947-B2FD-FBFC6CDE6753}
+      IID 154
+      NAME A_close-mic_recordin_#2-1791258106883.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {994B858F-BA55-F44F-BFEA-F66789A15D93}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/A_close-mic_recordin_#2-1791258106883.wav"
+      >
+    >
+    <ITEM
+      POSITION 8.53783575783018
+      SNAPOFFS 0
+      LENGTH 0.77586958923449
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D3659BB1-9F9A-864F-AAB5-AAB196CE7592}
+      IID 154
+      NAME A_close-mic_recordin_#2-1791258106883.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C49C5F76-06CA-D848-943E-9F39A6CE6829}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/A_close-mic_recordin_#2-1791258106883.wav"
+      >
+    >
+    <ITEM
+      POSITION 9.31370534712914
+      SNAPOFFS 0
+      LENGTH 0.77586958923449
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {DDC99D1A-9707-D744-9599-016FC6E8989E}
+      IID 154
+      NAME A_close-mic_recordin_#2-1791258106883.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {500676F4-ACB8-E94C-931E-0BBA73F6427C}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/A_close-mic_recordin_#2-1791258106883.wav"
+      >
+    >
+    <ITEM
+      POSITION 10.08957493631169
+      SNAPOFFS 0
+      LENGTH 0.77586958923449
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0C8F0A60-CF4B-E342-8E3A-BC37E93BEFDB}
+      IID 154
+      NAME A_close-mic_recordin_#2-1791258106883.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {17A91AB5-53DF-3D4F-ADF3-8A472356A91A}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/A_close-mic_recordin_#2-1791258106883.wav"
+      >
+    >
+    <ITEM
+      POSITION 10.86544452549424
+      SNAPOFFS 0
+      LENGTH 0.77586958923449
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0D26E7FF-130A-264C-9E49-847D4A158A5D}
+      IID 154
+      NAME A_close-mic_recordin_#2-1791258106883.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {41F49F13-5228-644E-8FB8-FA459E1577B6}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/A_close-mic_recordin_#2-1791258106883.wav"
+      >
+    >
+    <ITEM
+      POSITION 11.6413141147932
+      SNAPOFFS 0
+      LENGTH 0.77586958923449
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {28B7DAF5-3D56-F449-A6E2-4953CCDF331A}
+      IID 154
+      NAME A_close-mic_recordin_#2-1791258106883.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {727D5A72-E38E-C54E-A3E6-5D65D9D9FE89}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/A_close-mic_recordin_#2-1791258106883.wav"
+      >
+    >
+    <ITEM
+      POSITION 12.41718370397575
+      SNAPOFFS 0
+      LENGTH 0.77586958923449
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0056FF77-ADB0-1E47-93EB-AD21818B2CA7}
+      IID 154
+      NAME A_close-mic_recordin_#2-1791258106883.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B37CBBFD-3F0A-BB41-A64D-FB133355CA69}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/A_close-mic_recordin_#2-1791258106883.wav"
+      >
+    >
+    <ITEM
+      POSITION 13.19305329327472
+      SNAPOFFS 0
+      LENGTH 0.77586958923449
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D8AB03B3-164F-914C-97A0-99C3DB1976FD}
+      IID 154
+      NAME A_close-mic_recordin_#2-1791258106883.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {43663F5E-9FEE-9F4B-BA98-0C2D55BEE07F}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/A_close-mic_recordin_#2-1791258106883.wav"
+      >
+    >
+    <ITEM
+      POSITION 13.96892288245726
+      SNAPOFFS 0
+      LENGTH 0.77586958923449
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {280D1E9B-2D4C-5548-B67C-9A8E4659FB69}
+      IID 154
+      NAME A_close-mic_recordin_#2-1791258106883.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0E40B0C8-9136-E54B-ABFE-4DA41599FF62}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/A_close-mic_recordin_#2-1791258106883.wav"
+      >
+    >
+    <ITEM
+      POSITION 14.74479247175623
+      SNAPOFFS 0
+      LENGTH 0.77586958923449
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B0D3FD7C-085B-7E41-9F19-A74BE4594A1C}
+      IID 154
+      NAME A_close-mic_recordin_#2-1791258106883.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {33F002B2-BAFC-954D-96D1-741501537E00}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/A_close-mic_recordin_#2-1791258106883.wav"
+      >
+    >
+    <ITEM
+      POSITION 15.52066206093878
+      SNAPOFFS 0
+      LENGTH 0.77586958923449
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5BB2C2D4-9D91-B144-92F2-7FB94AE6005A}
+      IID 154
+      NAME A_close-mic_recordin_#2-1791258106883.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3405ABC6-E5AB-FD4D-9E2B-6E1A3E84D588}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/A_close-mic_recordin_#2-1791258106883.wav"
+      >
+    >
+    <ITEM
+      POSITION 16.29653165023774
+      SNAPOFFS 0
+      LENGTH 0.77586958923449
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6D51CB51-EEF8-314B-A875-CAAFA73EFDEF}
+      IID 154
+      NAME A_close-mic_recordin_#2-1791258106883.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3612F09D-5E0F-AE45-A5A1-A21857F310D9}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/A_close-mic_recordin_#2-1791258106883.wav"
+      >
+    >
+    <ITEM
+      POSITION 17.07240123942029
+      SNAPOFFS 0
+      LENGTH 0.77586958923449
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {81F0CA17-9D14-B142-BFCA-6905F4066DCE}
+      IID 154
+      NAME A_close-mic_recordin_#2-1791258106883.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5854B0D0-B49D-9E42-97D3-3F35B17E04CC}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/A_close-mic_recordin_#2-1791258106883.wav"
+      >
+    >
+    <ITEM
+      POSITION 17.84827082860284
+      SNAPOFFS 0
+      LENGTH 0.77586958923449
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7AD457A8-2242-5241-BB3D-2C9902AE9EB8}
+      IID 154
+      NAME A_close-mic_recordin_#2-1791258106883.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {59FFE551-9BEB-AA4D-A6A8-18F509EB57F8}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/A_close-mic_recordin_#2-1791258106883.wav"
+      >
+    >
+  >
+>

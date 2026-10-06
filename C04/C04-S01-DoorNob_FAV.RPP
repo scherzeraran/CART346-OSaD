@@ -1,0 +1,886 @@
+<REAPER_PROJECT 0.1 "7.79/macOS-arm64" 1791258642 0
+  <NOTES 0 2
+  >
+  RIPPLE 0 0
+  GROUPOVERRIDE 0 0 0 0
+  AUTOXFADE 129
+  ENVATTACH 3
+  POOLEDENVATTACH 0
+  TCPUIFLAGS 0
+  MIXERUIFLAGS 11 48 0
+  ENVFADESZ10 40
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0 0
+  MAXPROJLEN 0 0
+  GRID 3199 8 1 8 1 0 0 0
+  TIMEMODE 1 5 -1 30 0 0 -1 0
+  VIDEO_CONFIG 0 0 65792
+  PANMODE 3
+  PANLAWFLAGS 3
+  CURSOR 22
+  ZOOM 31.7927028084656 132 0
+  VZOOMEX 6 0
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
+  LOOP 0
+  LOOPGRAN 0 4
+  RECORD_PATH "Media" ""
+  <RECORD_CFG
+    ZXZhdxgAAQ==
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE ""
+  RENDER_PATTERN ""
+  RENDER_FMT 0 2 0
+  RENDER_1X 0
+  RENDER_RANGE 1 0 0 0 1000
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 0
+  RENDER_DITHER 0
+  RENDER_TRIM 0.000001 0.000001 0 0
+  TIMELOCKMODE 1
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 1
+  DEFPITCHMODE 589824 0
+  TAKELANE 1
+  SAMPLERATE 44100 0 0
+  <RENDER_CFG
+    ZXZhdxgAAQ==
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    BEATLEN 4
+    FREQ 1760 880 1
+    SAMPLES "" "" "" ""
+    SPLIGNORE 0 0
+    SPLDEF 2 660 "" 0 ""
+    SPLDEF 3 440 "" 0 ""
+    PATTERN 0 169
+    PATTERNSTR ABBB
+    MULT 1
+  >
+  GLOBAL_AUTO -1
+  TEMPO 120 4 4 0
+  PLAYRATE 1 0 0.25 4
+  SELECTION 20.5 21
+  SELECTION2 20.5 21
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 0 0 0 0 0 0 0 0 0 0 1
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_PANMODE 3
+  MASTER_PANLAWFLAGS 3
+  MASTER_FX 1
+  MASTER_TRACKID {AB42DEA5-81E7-B84E-AFE5-4ED6D44E3DAB}
+  MASTER_SEL 0
+  <MASTERPLAYSPEEDENV
+    EGUID {B8510002-F513-C04B-A4CF-B4C85686BE37}
+    ACT 0 -1
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    EGUID {386DD568-C15F-5B48-90C4-F5EE559B6406}
+    ACT 1 -1
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  RULERHEIGHT 86 86
+  RULERLANE 1 4 "" 0 -1 0
+  RULERLANE 2 8 "" 0 -1 0
+  <PROJBAY
+  >
+  <TRACK {903EFEEA-23B3-CD40-AEF7-5DA7CCA77986}
+    NAME "Door nob"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 1
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {903EFEEA-23B3-CD40-AEF7-5DA7CCA77986}
+    PERF 0
+    MIDIOUT -1 -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 1.57
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D803B715-89E9-2048-974A-80AC954E47E6}
+      IID 203
+      NAME "Door nob.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {78B46524-9928-1E4E-9D9C-EC4A2D4EB5BA}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/Door nob.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.56999999994878
+      SNAPOFFS 0
+      LENGTH 1.57
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7555CE18-0460-DE41-A082-1BB84698B890}
+      IID 203
+      NAME "Door nob.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {90F96903-2B34-744E-A789-6B2B474AB29F}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/Door nob.wav"
+      >
+    >
+    <ITEM
+      POSITION 3.14000000001397
+      SNAPOFFS 0
+      LENGTH 1.57
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {36F1F51E-AA4B-7F42-B382-E522660F01A4}
+      IID 203
+      NAME "Door nob.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {09F27DE5-5750-7649-B783-390466DFE049}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/Door nob.wav"
+      >
+    >
+    <ITEM
+      POSITION 4.70999999996275
+      SNAPOFFS 0
+      LENGTH 1.57
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E513F241-F888-B346-8B23-83862363D062}
+      IID 203
+      NAME "Door nob.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FED0AB94-0C20-7048-A54F-B167EEF7155A}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/Door nob.wav"
+      >
+    >
+    <ITEM
+      POSITION 6.28000000002794
+      SNAPOFFS 0
+      LENGTH 1.57
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7583D508-D719-9747-BBB5-D79AD1CB0EB0}
+      IID 203
+      NAME "Door nob.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C292B6E3-3365-4C46-A3DB-D1621C11E68C}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/Door nob.wav"
+      >
+    >
+    <ITEM
+      POSITION 7.84999999997672
+      SNAPOFFS 0
+      LENGTH 1.57
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {630CE88E-F4D5-E74D-A68F-780E38F4D0AA}
+      IID 203
+      NAME "Door nob.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {18CCB6A9-D0D9-2844-9FB3-610F03B2CA29}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/Door nob.wav"
+      >
+    >
+    <ITEM
+      POSITION 9.42000000004191
+      SNAPOFFS 0
+      LENGTH 1.57
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {93F6EEA4-DF2F-FC43-9477-5CCFD4871B74}
+      IID 203
+      NAME "Door nob.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {53CF6668-FB13-984C-94FB-6301562E37EF}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/Door nob.wav"
+      >
+    >
+    <ITEM
+      POSITION 10.98999999999069
+      SNAPOFFS 0
+      LENGTH 1.57
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {338B0541-16C0-E445-B2F3-60998359139B}
+      IID 203
+      NAME "Door nob.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {520EC496-8892-394F-AC2A-D9ECF1AB2F0C}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/Door nob.wav"
+      >
+    >
+    <ITEM
+      POSITION 12.56000000005588
+      SNAPOFFS 0
+      LENGTH 1.57
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9034E12F-6953-D441-91EF-9188E876CDF1}
+      IID 203
+      NAME "Door nob.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {02D13878-4545-A543-9911-077B463EBA4C}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/Door nob.wav"
+      >
+    >
+    <ITEM
+      POSITION 14.13000000000466
+      SNAPOFFS 0
+      LENGTH 1.57
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2F01060B-F065-5643-947D-21EB4B5C81F6}
+      IID 203
+      NAME "Door nob.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {49BEB1E4-A82E-934A-AD21-8FB47745F96B}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/Door nob.wav"
+      >
+    >
+    <ITEM
+      POSITION 15.69999999995343
+      SNAPOFFS 0
+      LENGTH 1.57
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6330AA0B-C4C2-6546-B265-6965C90FCABB}
+      IID 203
+      NAME "Door nob.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A8DAD856-BE6E-C040-8428-953E872CC4F6}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/Door nob.wav"
+      >
+    >
+    <ITEM
+      POSITION 17.27000000001863
+      SNAPOFFS 0
+      LENGTH 1.57
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {307F5569-155B-7F49-A81B-6F583AA30163}
+      IID 203
+      NAME "Door nob.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {09DBA188-4392-1544-B9D9-ECCF72443610}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/Door nob.wav"
+      >
+    >
+    <ITEM
+      POSITION 18.86512049543671
+      SNAPOFFS 0
+      LENGTH 1.57
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AEC27091-A402-2E48-9698-2879E10D6757}
+      IID 203
+      NAME "Door nob.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E8DD72A0-B514-9245-B1C8-3F1526A43AFE}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/Door nob.wav"
+      >
+    >
+    <ITEM
+      POSITION 20.4504247388104
+      SNAPOFFS 0
+      LENGTH 1.57
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7AEAF94E-DA78-974E-8E2A-1CDA3623EAC9}
+      IID 203
+      NAME "Door nob.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {494B2585-2108-E940-A3A8-3150B5251763}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/Door nob.wav"
+      >
+    >
+    <ITEM
+      POSITION 22.02042473875917
+      SNAPOFFS 0
+      LENGTH 1.57
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C2AB1EAF-89A7-C449-A766-8461F3B064EE}
+      IID 203
+      NAME "Door nob.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {31AD28E1-2436-EA41-940E-1CE4E1609A53}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/Door nob.wav"
+      >
+    >
+    <ITEM
+      POSITION 23.66119090649676
+      SNAPOFFS 0
+      LENGTH 1.57
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1AFC599F-7747-BF47-A321-77238A237B22}
+      IID 203
+      NAME "Door nob.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C1194239-09E5-3245-B133-4DBF9508F700}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/Door nob.wav"
+      >
+    >
+  >
+  <TRACK {B8077479-1325-AA4B-83E8-D324E79302AD}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {B8077479-1325-AA4B-83E8-D324E79302AD}
+    PERF 0
+    MIDIOUT -1 -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 1.48
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {CD13586B-A04E-AC4E-B4FE-90AA9FE714E7}
+      IID 203
+      NAME "Door nob.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {29749F94-EA47-9240-B34B-89AC37D27C1D}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/Door nob.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.48
+      SNAPOFFS 0
+      LENGTH 1.48
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1DF911D5-40E7-FC4F-B6A2-728D4C9C8334}
+      IID 203
+      NAME "Door nob.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {63C971CB-52EF-0B4E-9F1B-3DB7E44DA096}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/Door nob.wav"
+      >
+    >
+    <ITEM
+      POSITION 2.97999999998137
+      SNAPOFFS 0
+      LENGTH 1.48
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B029CFB1-FA10-1549-84BA-23C4B99C173D}
+      IID 203
+      NAME "Door nob.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {84FE0D0E-5431-CA42-9475-3BB026445A65}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/Door nob.wav"
+      >
+    >
+    <ITEM
+      POSITION 4.45999999996275
+      SNAPOFFS 0
+      LENGTH 1.48
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C8533B8F-42B9-A841-A714-207F558C91FF}
+      IID 203
+      NAME "Door nob.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {65A0C7ED-C8A9-344B-B2AB-308DE79D0C08}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/Door nob.wav"
+      >
+    >
+    <ITEM
+      POSITION 5.93999999994412
+      SNAPOFFS 0
+      LENGTH 1.48
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2577361D-B13F-6A44-ADAD-77BBD16D77CE}
+      IID 203
+      NAME "Door nob.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5C4F9B84-1B10-B042-B965-04B88AF7CFEF}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/Door nob.wav"
+      >
+    >
+    <ITEM
+      POSITION 7.42000000004191
+      SNAPOFFS 0
+      LENGTH 1.48
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A3ADFFB5-22BD-C84A-BC45-868C98832596}
+      IID 203
+      NAME "Door nob.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {81FFD5A8-91C3-C54C-BCFE-58091C4BA51D}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/Door nob.wav"
+      >
+    >
+    <ITEM
+      POSITION 8.90000000002328
+      SNAPOFFS 0
+      LENGTH 1.48
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C3E0A754-FC08-BA45-ABE8-730B9A42989B}
+      IID 203
+      NAME "Door nob.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B4A235B2-9E86-6040-9746-AA9C5553CDCB}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/Door nob.wav"
+      >
+    >
+    <ITEM
+      POSITION 10.38000000000466
+      SNAPOFFS 0
+      LENGTH 1.48
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BE0C0102-EF76-2D4C-9CBC-40358EFF9FCF}
+      IID 203
+      NAME "Door nob.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5E049F35-7E94-834C-94CD-7260141FE983}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/Door nob.wav"
+      >
+    >
+    <ITEM
+      POSITION 11.85999999998603
+      SNAPOFFS 0
+      LENGTH 1.48
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {87C6319F-770A-374D-8F27-ACECB4DA3CA8}
+      IID 203
+      NAME "Door nob.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F34B9820-D117-6643-A0BC-8C990B2DD5D4}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/Door nob.wav"
+      >
+    >
+    <ITEM
+      POSITION 13.3399999999674
+      SNAPOFFS 0
+      LENGTH 1.48
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {287FB718-3CF9-524B-96AD-7AD215D693B3}
+      IID 203
+      NAME "Door nob.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F38A79EB-48A6-9446-B2DC-B53984C22BAF}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/Door nob.wav"
+      >
+    >
+    <ITEM
+      POSITION 14.81999999994878
+      SNAPOFFS 0
+      LENGTH 1.48
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E6FDEBF7-AE71-3F40-AB3D-4EC7ED4940D9}
+      IID 203
+      NAME "Door nob.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4A82A2FC-E084-7B40-BF43-99E54F909918}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/Door nob.wav"
+      >
+    >
+    <ITEM
+      POSITION 16.30000000004657
+      SNAPOFFS 0
+      LENGTH 1.48
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {DD48D5E9-16FB-CD43-91F8-0D9EE5D0A6D6}
+      IID 203
+      NAME "Door nob.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0104128D-B6F8-8147-9707-8A3DC8D550B7}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/Door nob.wav"
+      >
+    >
+    <ITEM
+      POSITION 17.78000000002794
+      SNAPOFFS 0
+      LENGTH 1.48
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5E161C9F-7814-DF44-87BD-B0A867DBD431}
+      IID 203
+      NAME "Door nob.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {193608AD-B910-204C-9CD1-8EAADD465B9F}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/Door nob.wav"
+      >
+    >
+    <ITEM
+      POSITION 19.29541736154351
+      SNAPOFFS 0
+      LENGTH 1.48
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FC5E35B1-B6C8-D74E-A653-9ED048C6FA10}
+      IID 203
+      NAME "Door nob.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {48661E9E-0669-9C4A-A18C-BDE875FF8B8C}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/Door nob.wav"
+      >
+    >
+    <ITEM
+      POSITION 20.77541736152489
+      SNAPOFFS 0
+      LENGTH 1.48
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {355416EC-D876-AE45-8D03-61A3B7215698}
+      IID 203
+      NAME "Door nob.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1D7B4FC2-B241-2D4D-9C64-B03FB8D5BFBB}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/Door nob.wav"
+      >
+    >
+    <ITEM
+      POSITION 22.25541736150626
+      SNAPOFFS 0
+      LENGTH 1.48
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A29DF87C-8ACF-5E45-8B51-318B4E78F467}
+      IID 203
+      NAME "Door nob.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {116458FB-B71B-C443-8194-636BD411F5F9}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/Door nob.wav"
+      >
+    >
+    <ITEM
+      POSITION 23.73541736148763
+      SNAPOFFS 0
+      LENGTH 1.48
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9374D33B-0FE0-7D49-BE2F-A459BD2397AB}
+      IID 203
+      NAME "Door nob.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A987FB80-4972-304C-9C6A-54830C0A49E5}
+      <SOURCE WAVE
+        FILE "/Users/student/Downloads/Door nob.wav"
+      >
+    >
+  >
+>
