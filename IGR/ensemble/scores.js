@@ -58,33 +58,21 @@ const PTC_CREDIT = 'The work has been produced with sounds that were originally 
 
 const SCORES = [
   {
-    title: 'C08 · Bell Weather',
-    credit: 'Your Name',
+    title: 'C08 · Glass Weather',
+    credit: 'Aran Scherzer',
     groups: 3,
     events: [
-      // Ticks alone, a dry attack that slowly smears into rhythm
-      { at: '0:00', groups: 'A', play: 'assets/demo/C08-S05-ticks', ratio: 1.004, fade: 2 },
-      { at: '0:12', groups: 'B', play: 'assets/demo/C08-S05-ticks', ratio: 1.012, fade: 4, level: 0.8 },
-      // Groups start sliding against each other
-      { at: '0:25', spread: 1.01, glide: 20 },
-      // A slow cloud of Risset bells enters under the ticks
-      { at: '0:35', groups: 'C', play: 'assets/demo/C08-S01-risset', ratio: 1.003, fade: 15, level: 0.7 },
-      // Ticks step back so the bells can bloom
-      { at: '0:55', groups: 'AB', sound: 'assets/demo/C08-S05-ticks', level: 0.4, fade: 10 },
-      { at: '1:00', groups: 'A', play: 'assets/demo/C08-S02-driftbells', ratio: 1.006, fade: 15, level: 0.8 },
-      { at: '1:10', groups: 'B', play: 'assets/demo/C08-S04-morph', ratio: 1.01, fade: 12, level: 0.8 },
-      // Everything blurs inside its group
-      { at: '1:25', ratio: 1.03, glide: 25 },
-      // The saws arrive: the bright peak of the piece
-      { at: '1:35', groups: 'C', play: 'assets/demo/C08-S03-saws_FAV', ratio: 1.015, fade: 10, level: 0.6 },
-      { at: '1:50', spread: 1.04, glide: 20 },
-      { at: '2:00', groups: 'AB', sound: 'assets/demo/C08-S05-ticks', level: 0.9, fade: 6 },
-      // Freeze, drift stops, the cloud settles into a chord-like unison
-      { at: '2:10', ratio: 1.0, glide: 20 },
-      { at: '2:10', spread: 1.0, glide: 20 },
-      { at: '2:25', groups: 'all', stop: 'all', fade: 15 },
+      { at: '0:00', groups: 'A', play: 'demo/C08-S01-drift-drone', ratio: 1.0, fade: 6, level: 0.9 },
+      { at: '0:20', groups: 'B', play: 'demo/C08-S02-narrow-wind', ratio: 1.01, fade: 8, level: 0.6 },
+      { at: '0:40', groups: 'C', play: 'demo/C08-S04-vowel-chord', ratio: 1.005, fade: 8, level: 0.8 },
+      { at: '0:50', spread: 1.01, glide: 20 },
+      { at: '1:05', groups: 'A', play: 'demo/C08-S03-glass-ticks_FAV', ratio: 1.0, fade: 2, level: 0.8 },
+      { at: '1:20', groups: 'B', play: 'demo/C08-S03-glass-ticks_FAV', ratio: 1.03, fade: 2, level: 0.7 },
+      { at: '1:35', groups: 'C', play: 'demo/C08-S05-rain-grains', ratio: 1.0, fade: 5, level: 0.8 },
+      { at: '1:40', spread: 1.04, glide: 30 },
+      { at: '2:15', groups: 'all', stop: 'all', fade: 12 },
     ],
-    end: '2:45',
+    end: '2:30'
   },
 
   {
@@ -92,11 +80,9 @@ const SCORES = [
     credit: "All recordings by Gabriel Vigliensoni.",
     groups: 3,
     events: [
-      // Both groups in unison, then only the groups drift apart…
       { at: '0:00', groups: 'AB', play: 'demo/4', ratio: 1.00, fade: 10 },
       { at: '0:15', ratio: 1.05, glide: 20 },
       { at: '0:15', groups: 'C', play: 'demo/door', ratio: 1.05, level: 0.25, fade: 30 },
-      // …then each group also blurs inside
       { at: '0:50', ratio: 1.05, glide: 20 },
       { at: '1:30', spread: 1.05, glide: 10 },
       { at: '1:50', stop: 'all', fade: 10 },
