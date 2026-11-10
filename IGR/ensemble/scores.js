@@ -58,29 +58,33 @@ const PTC_CREDIT = 'The work has been produced with sounds that were originally 
 
 const SCORES = [
   {
-    title: 'Rain Study I',
-    credit: "All recordings by Gabriel Vigliensoni.",
-    groups: 4,
+    title: 'C08 · Bell Weather',
+    credit: 'Your Name',
+    groups: 3,
     events: [
-      // Sound 1 in A, B and C: each group spreads slowly, groups stay together
-      { at: '0:00', groups: 'AB', play: 'demo/1', ratio: 1.01, fade: 5 },
-      // The groups start drifting against each other too
-      { at: '0:30', spread: 1.04, glide: 30 },
-      // At 2:00 sound 2 fades in on D over a minute…
-      { at: '1:00', groups: 'C', play: 'demo/3', ratio: 1.010, fade: 60 },
-      { at: '1:00', groups: 'D', play: 'demo/5', ratio: 1.020, fade: 60 },
-      // …while A, B, C crossfade from sound 1 to sound 2 over the same minute
-      { at: '1:15', groups: 'AB', stop: 'demo/1', fade: 60 },
-      { at: '2:15', groups: 'A', play: 'demo/5', ratio: 1.004, fade: 60 },
-      // Everyone accelerates inside their group, then everything freezes
-      { at: '3:00', groups: 'all', ratio: 1.03, glide: 20 },
-      { at: '4:00', groups: 'all', ratio: 1.000, glide: 30 },
-      { at: '5:00', spread: 1.000, glide: 30 },
-      // Sound 3 enters on A and C only, frozen
-      { at: '5:30', groups: 'AC', play: 'demo/3', fade: 10, level: 0.8 },
-      { at: '6:00', groups: 'all', stop: 'all', fade: 20 },
+      // Ticks alone, a dry attack that slowly smears into rhythm
+      { at: '0:00', groups: 'A', play: 'scherzeraran/C08-S05-ticks', ratio: 1.004, fade: 2 },
+      { at: '0:12', groups: 'B', play: 'scherzeraran/C08-S05-ticks', ratio: 1.012, fade: 4, level: 0.8 },
+      // Groups start sliding against each other
+      { at: '0:25', spread: 1.01, glide: 20 },
+      // A slow cloud of Risset bells enters under the ticks
+      { at: '0:35', groups: 'C', play: 'scherzeraran/C08-S01-risset', ratio: 1.003, fade: 15, level: 0.7 },
+      // Ticks step back so the bells can bloom
+      { at: '0:55', groups: 'AB', sound: 'scherzeraran/C08-S05-ticks', level: 0.4, fade: 10 },
+      { at: '1:00', groups: 'A', play: 'scherzeraran/C08-S02-driftbells', ratio: 1.006, fade: 15, level: 0.8 },
+      { at: '1:10', groups: 'B', play: 'scherzeraran/C08-S04-morph', ratio: 1.01, fade: 12, level: 0.8 },
+      // Everything blurs inside its group
+      { at: '1:25', ratio: 1.03, glide: 25 },
+      // The saws arrive: the bright peak of the piece
+      { at: '1:35', groups: 'C', play: 'scherzeraran/C08-S03-saws_FAV', ratio: 1.015, fade: 10, level: 0.6 },
+      { at: '1:50', spread: 1.04, glide: 20 },
+      { at: '2:00', groups: 'AB', sound: 'scherzeraran/C08-S05-ticks', level: 0.9, fade: 6 },
+      // Freeze, drift stops, the cloud settles into a chord-like unison
+      { at: '2:10', ratio: 1.0, glide: 20 },
+      { at: '2:10', spread: 1.0, glide: 20 },
+      { at: '2:25', groups: 'all', stop: 'all', fade: 15 },
     ],
-    end: '6:20',
+    end: '2:45',
   },
 
   {
