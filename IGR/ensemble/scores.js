@@ -89,6 +89,43 @@ const SCORES = [
     ],
   },
 
+  {
+    title: 'C09 Aran mix',
+    credit: 'Aran Scherzer',
+    groups: 4,
+    events: [
+      // Opening: S03 alone for 10 s, then S02, then S04
+      { at: '0:00', groups: 'A', play: 'demo/C09-S03-phase_FAV', ratio: 1.0, fade: 2, level: 0.9 },
+      { at: '0:10', groups: 'B', play: 'demo/C09-S02-subpulse', ratio: 1.0, fade: 5, level: 0.8 },
+      { at: '0:40', groups: 'C', play: 'demo/C09-S04-pad', ratio: 1.0, fade: 6, level: 0.7 },
+
+      // Beat joins; all four run together
+      { at: '1:10', groups: 'D', play: 'demo/C09-S05-beat', ratio: 1.0, fade: 1, level: 0.6 },
+
+      // S01 arp: five snippets, exactly 8 s apart
+      { at: '1:18', groups: 'all', play: 'demo/C09-S01-arp', ratio: 1.0, loop: false, fade: 0.3, fadeOut: 1.0, level: 0.6 },
+      { at: '1:26', groups: 'all', play: 'demo/C09-S01-arp', ratio: 1.01, loop: false, fade: 0.3, fadeOut: 1.0, level: 0.6 },
+      { at: '1:34', groups: 'all', play: 'demo/C09-S01-arp', ratio: 1.02, loop: false, fade: 0.3, fadeOut: 1.0, level: 0.6 },
+      { at: '1:42', groups: 'all', play: 'demo/C09-S01-arp', ratio: 1.0, loop: false, fade: 0.3, fadeOut: 1.0, level: 0.6 },
+      { at: '1:50', groups: 'all', play: 'demo/C09-S01-arp', ratio: 1.015, loop: false, fade: 0.3, fadeOut: 1.0, level: 0.6 },
+
+      // 2:10 beat and S03 fade; S02 + S04 remain
+      { at: '2:10', groups: 'D', stop: 'demo/C09-S05-beat', fade: 4 },
+      { at: '2:10', groups: 'A', stop: 'demo/C09-S03-phase_FAV', fade: 6 },
+
+      // 2:30 S03 returns; 2:37 S02 fades; second S03 and second S04 join
+      { at: '2:30', groups: 'A', play: 'demo/C09-S03-phase_FAV', ratio: 1.0, fade: 4, level: 0.9 },
+      { at: '2:37', groups: 'B', stop: 'demo/C09-S02-subpulse', fade: 6 },
+      { at: '2:39', groups: 'B', play: 'demo/C09-S03-phase_FAV', ratio: 1.005, fade: 4, level: 0.7 },
+      { at: '2:39', groups: 'D', play: 'demo/C09-S04-pad', ratio: 1.01, fade: 4, level: 0.5 },
+
+      // 2:55 second copies stop; 3:05 S03 stops; S04 alone to the end
+      { at: '2:55', groups: 'BD', stop: 'all', fade: 6 },
+      { at: '3:05', groups: 'A', stop: 'demo/C09-S03-phase_FAV', fade: 4 },
+      { at: '3:06', groups: 'C', stop: 'demo/C09-S04-pad', fade: 6 },
+    ],
+    end: '3:12'
+  },
 
   {
     title: 'Quick test',
