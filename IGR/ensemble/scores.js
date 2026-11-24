@@ -128,6 +128,36 @@ const SCORES = [
   },
 
   {
+    title: 'C10 Aran',
+    credit: 'Aran',
+    groups: 4,
+    events: [
+
+      { at: '0:00', groups: 'AB', play: 'demo/C10-S02-drip', ratio: 1.01, fade: 12, level: 0.3 },
+      { at: '0:08', groups: 'CD', play: 'demo/C10-S02-drip', ratio: 1.03, fade: 12, level: 0.3 },
+      { at: '0:20', groups: 'AB', play: 'demo/C10-S04-wave', ratio: 1.01, fade: 12, level: 0.2 },
+
+      { at: '0:40', groups: 'A', play: 'demo/C10-S01-bell', loop: false, level: 0.5 },
+      { at: '0:43', groups: 'B', play: 'demo/C10-S01-bell', loop: false, level: 0.5 },
+      { at: '0:47', groups: 'C', play: 'demo/C10-S01-bell', loop: false, level: 0.5 },
+      { at: '0:50', groups: 'D', play: 'demo/C10-S01-bell', loop: false, level: 0.5 },
+      { at: '1:00', groups: 'all', stop: 'demo/C10-S02-drip', fade: 15 },
+
+      { at: '1:10', groups: 'CD', play: 'demo/C10-S03-bowl', ratio: 1.0, fade: 10, level: 0.3 },
+      { at: '1:25', spread: 1.002, glide: 30 },
+      { at: '1:25', groups: 'AB', play: 'demo/C10-S05-rain', ratio: 1.01, fade: 20, level: 0.2 },
+
+      { at: '2:05', groups: 'CD', play: 'demo/C10-S04-wave', ratio: 1.03, fade: 5, level: 0.5 },
+      { at: '2:05', groups: 'AB', stop: 'demo/C10-S03-bowl', fade: 15 },
+
+      { at: '2:20', spread: 1.006, glide: 20 },
+
+      { at: '2:44', groups: 'all', stop: 'all', fade: 6 },
+    ],
+    end: '2:50'
+  },
+
+  {
     title: 'Quick test',
     credit: "All recordings by Gabriel Vigliensoni.",
     groups: 3,
